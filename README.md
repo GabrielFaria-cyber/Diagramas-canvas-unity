@@ -1,3 +1,3 @@
 # Diagramas-canvas-unity
 
-<img src="diagrama/image.png"/>
+<img src="diagrama/Caso de Uso(canvas).jpeg"/>
